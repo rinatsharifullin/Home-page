@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
     $("#fotki").vc3dEye({
         imagePath:"images/",// the location where you’ve put the images.
-        totalImages:9,// the number of images you have.
+        totalImages:10,// the number of images you have.
         imageExtension:"jpg" // the extension of the images. Make sure all the images have same extension.
     });
     $('svg').hover(function(){
