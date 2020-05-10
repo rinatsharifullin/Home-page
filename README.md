@@ -1,1 +1,1 @@
-https://rinatsharifullin.github.io/Home-page/
+https://rinatsharifullin.github.io/Home-page
