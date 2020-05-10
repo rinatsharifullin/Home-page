@@ -1,0 +1,19 @@
+.wrapper{
+    height: 300vh;
+}
+svg{
+    position: fixed;
+    /* right: 0; */
+    left: 50%;
+    top: 50%;
+    /* bottom: 0; */
+    /* margin: auto; */
+    transform: translate(-50%, -50%);
+    width: 90%;
+    transition: transform 1s ease;
+}
+path{
+    fill: rgb(255, 255, 255);
+    transition: fill 1s ease;
+
+}
